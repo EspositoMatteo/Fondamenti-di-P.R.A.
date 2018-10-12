@@ -17,5 +17,5 @@ Salvo eventuali modifcihe dovute a molteplici cause (e.g. consigli, traffico da 
 Se avete necessità di contattarmi basta inviare una mail a:
 esposito.matteo@outlook.com
 
-**specificando nell'oggetto del corso [FondamentiPRA] - xyz **
+**specificando nell'oggetto del corso [FondamentiPRA] - xyz**
 dove ovviamente xyz sta ad indicare il vostro oggetto
